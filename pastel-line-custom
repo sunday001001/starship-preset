@@ -19,7 +19,7 @@ $nim\
 $rust\
 [](fg:#06969A bg:#33658A)\
 $time\
-[](fg:#33658A)\
+[ ](fg:#33658A)\
 """
 
 # Disable the blank line at the start of the prompt
@@ -125,4 +125,4 @@ format = '[$indicator]($style)'
 disabled = false
 time_format = "%R" # Hour:Minute Format
 style = "bg:#33658A"
-format = '[⌚$time]($style)'
+format = '[$time]($style)'
