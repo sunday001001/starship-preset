@@ -5,5 +5,5 @@ https://starship.rs/
 
 ```mermaid
 flowchart LR
-    Open your ~/.config/starship.toml --> Edit file --> Fin
+    "Open your ~/.config/starship.toml"-->"Edit file"-->"Fin"
 ```
