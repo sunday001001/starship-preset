@@ -4,9 +4,6 @@
 https://starship.rs/
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart LR
+    Open your ~/.config/starship.toml --> Edit file --> Fin
 ```
