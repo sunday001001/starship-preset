@@ -5,5 +5,5 @@ https://starship.rs/
 
 ```mermaid
 flowchart LR
-    "Open your ~/.config/starship.toml"-->"Edit file"-->"Fin"
+    id1["Open your ~/.config/starship.toml"]-->id2["Edit file"]-->id3["Fin"]
 ```
